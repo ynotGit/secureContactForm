@@ -1,0 +1,45 @@
+.contact {
+
+    p {
+        text-align: center;
+        line-height: 40px;
+    }
+
+    form {
+        border-style: double;
+        margin-top: 20px;
+        text-align: center;
+
+        .header-line {
+            border-top: 3px double #8c8b8b;
+            margin-top: 40px;
+        }
+
+        .fa-envelope {
+            font-size: 40px;
+            padding: 20px;
+        }
+
+        .form-success {
+            background-color: #136A2F;
+            color: whitesmoke;
+            padding: 15px 0;
+        }
+
+        .form-error {
+            background-color: #C61822;
+            color: whitesmoke;
+            padding: 15px 0;
+        }
+       
+        .g-recaptcha {
+            display: inline-block;
+        }
+
+        .btn {
+            margin: 20px 0;
+            width: 100%;
+            background-color: #14692b;
+        }
+    }
+}
