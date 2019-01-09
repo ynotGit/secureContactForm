@@ -1,15 +1,15 @@
 # secureContactForm
 Contact Form using both client &amp; server side validation with Google reCaptcha. Say goodbye to bot spam!
-&nbsp; 
+<br /> <br />
 This form uses the Materialize CSS framework but is compatible with any other framework or your own custom CSS.
-&nbsp;
+<br /> <br />
 Instructions:
-&nbsp; 
+<br /> <br />
 • Visit: https://www.google.com/recaptcha/intro/v3.html 
-&nbsp; 
+<br />
 • Click My reCaptcha, register a new service instance, you'll be given a site key & secret key
-&nbsp; 
+<br />
 • Open the form.php file then enter your unique SITE-KEY, SECRET-KEY & RECIPIENT-EMAIL
-&nbsp; 
+<br /> <br />
 
 Jobs a good'un. 
